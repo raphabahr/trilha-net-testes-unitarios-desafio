@@ -1,0 +1,14 @@
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.exe
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.deps.json
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\refint\TestesUnitarios.Desafio.Console.dll
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+c:\Users\Lion\Development\Curso-Back-end\Dio\C# .net\Desafio - Testes Unitarios\trilha-net-testes-unitarios-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\ref\TestesUnitarios.Desafio.Console.dll
